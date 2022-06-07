@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+
 int n = 100; //Maximum number of characters possible in the roman number
+
 
 char roman_letters[7] = "IVXLCDM";
 int roman_letters_values[7] = {1,5,10,50,100,500,1000};
